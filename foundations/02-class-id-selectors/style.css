@@ -1,0 +1,20 @@
+.color{
+    background-color: #F78FA7;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#first {
+    color: #0b07f1;
+    font-size: 36px;
+}
+
+.color.molor {
+    font-size: 24px;
+}
+
+#second {
+    background-color: rgb(7, 238, 103);
+    font-size: 24px;
+    font-weight: 500;
+}
+
